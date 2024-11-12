@@ -3,6 +3,7 @@ is a YouTube clone application built using React, Material-UI, and the YouTube A
 
 
 Features:
+
 -Browse videos by category
 
 -Search videos by keywords
@@ -16,22 +17,38 @@ Technologies Used
 
 -Styling: CSS and Material-UI components
 
-API used 
-	-Rapid API
 
-Installation
+
+API used 
+
+-Rapid API
+
+
+
+Installation:
 
 Clone the repository:
   git clone https://github.com/rxa24/Rtube.git
-  cd Rtube
+
+  
+  Open Rtube folder:
+  	cd Rtube
+
+
 
 
 Install dependencies:
   npm install
 
 
+  
+
+
 Create a .env file in the root directory and add your API key:
   REACT_APP_YOUTUBE_API_KEY=your_api_key
+
+
+
 
 
 Start the application:
