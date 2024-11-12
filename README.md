@@ -4,18 +4,19 @@ is a YouTube clone application built using React, Material-UI, and the YouTube A
 
 Features:
 
--Browse videos by category
+-Browse videos by category.
 
--Search videos by keywords
+-Search videos by keywords.
 
--Watch videos directly within the app
+-Watch videos directly within the app.
 
-Technologies Used
--Frontend: React, Material-UI
+Technologies Used:
 
--Backend: YouTube API for video data
+-Frontend: React, Material-UI.
 
--Styling: CSS and Material-UI components
+-Backend: YouTube API for video data.
+
+-Styling: CSS and Material-UI components.
 
 
 
